@@ -1,4 +1,4 @@
-package aimlAssignments;
+//2.Develop a Java application to generate Electricity bill. Create a class with the following  members:  Consumer  no.,  consumer  name,  previous  month  reading, current month reading, and type of EB connection (i.e. domestic or commercial). Compute the bill amount using the user defined tariff.
 
 import java.util.Scanner;
 
